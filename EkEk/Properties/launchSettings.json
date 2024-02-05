@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EkEk (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "EkEk (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
